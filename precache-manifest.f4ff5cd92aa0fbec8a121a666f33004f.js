@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea4efb0e39fdce942d423a034961f26e",
+    "revision": "4b50d976f1f5e7ff5a7872c1e0d09d73",
     "url": "/adrive/index.html"
   },
   {
-    "revision": "7a6ffff4b8a878d0c403",
+    "revision": "d2771322d2eab2e03162",
     "url": "/adrive/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adrive/static/js/2.ff1385b1.chunk.js"
   },
   {
-    "revision": "7a6ffff4b8a878d0c403",
-    "url": "/adrive/static/js/main.56b99f12.chunk.js"
+    "revision": "d2771322d2eab2e03162",
+    "url": "/adrive/static/js/main.57496d80.chunk.js"
   },
   {
     "revision": "b06bdddfbadc53eac512",
