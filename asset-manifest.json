@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adrive/static/css/main.b100e6da.chunk.css",
+    "main.js": "/adrive/static/js/main.57496d80.chunk.js",
+    "main.js.map": "/adrive/static/js/main.57496d80.chunk.js.map",
+    "runtime-main.js": "/adrive/static/js/runtime-main.a812b583.js",
+    "runtime-main.js.map": "/adrive/static/js/runtime-main.a812b583.js.map",
+    "static/js/2.ff1385b1.chunk.js": "/adrive/static/js/2.ff1385b1.chunk.js",
+    "static/js/2.ff1385b1.chunk.js.map": "/adrive/static/js/2.ff1385b1.chunk.js.map",
+    "index.html": "/adrive/index.html",
+    "precache-manifest.4ca286f14949494b10551dabd20ebd50.js": "/adrive/precache-manifest.4ca286f14949494b10551dabd20ebd50.js",
+    "service-worker.js": "/adrive/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/adrive/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/adrive/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a812b583.js",
+    "static/js/2.ff1385b1.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.57496d80.chunk.js"
+  ]
+}
